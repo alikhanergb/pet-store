@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" role="img" aria-label="Interactive rope tug toy">
+  <rect width="400" height="200" fill="#fefae0"/>
+  <path d="M80 100 Q120 60 160 100 Q200 140 240 100 Q280 60 320 100" stroke="#c4956a" stroke-width="14" fill="none" stroke-linecap="round"/>
+  <path d="M80 100 Q120 140 160 100 Q200 60 240 100 Q280 140 320 100" stroke="#d4a574" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <circle cx="80" cy="100" r="18" fill="#e76f51"/>
+  <circle cx="320" cy="100" r="18" fill="#2d6a4f"/>
+  <text x="200" y="175" text-anchor="middle" fill="#6c757d" font-family="sans-serif" font-size="12">TUG TOY</text>
+  <circle cx="200" cy="50" r="8" fill="#f4a261" opacity="0.6"/>
+  <circle cx="170" cy="40" r="5" fill="#f4a261" opacity="0.4"/>
+  <circle cx="230" cy="42" r="6" fill="#f4a261" opacity="0.5"/>
+</svg>
